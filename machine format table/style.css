@@ -1,0 +1,29 @@
+.heading{
+    background-color: lightgray;
+}
+.border{
+    border: 1px;
+}
+#resistor{
+    background-color: lightgray;
+}
+#resistor1{
+    background-color: lightgray;
+}
+#operational{
+    background-color: lightgray;
+}
+#input{
+    background-color: lightgray;
+}
+#output{
+    background-color: lightgray;
+}
+
+table{
+    border-collapse:collapse ;
+
+}
+/* td:second-child th:second-child {
+    border-left: 2;
+} */
